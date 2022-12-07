@@ -1,0 +1,2 @@
+python-dotenv==0.21.0
+SkPy==0.10.4
